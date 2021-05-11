@@ -6,6 +6,7 @@ Esse projeto tem como objetivo desenvolver uma IA para realizar previsão de com
 
 ### FONTE DE DADOS
 A base de dados que foi utilizada é da Exchange BITMEX. A API utilizada no projeto consta no link abaixo:
+
 🔗 https://www.bitmex.com/app/apiOverview
 
 
